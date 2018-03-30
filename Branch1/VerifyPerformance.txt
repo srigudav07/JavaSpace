@@ -1,4 +1,4 @@
-This is to verify arrays collections performance 
+This is to verify arrays and collections performance 
 branch1 version
 
 master modification
